@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  #otp-input {
+    font-size: 18px;
+    padding: 10px;
+    margin-right: 10px;
+  }
+
+  #verify-button {
+    font-size: 16px;
+    padding: 8px;
+  }
